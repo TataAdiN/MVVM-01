@@ -1,13 +1,13 @@
 package com.example.myapplication.model;
 
-public class PushupCount {
+public class ClickCount {
     private int count;
 
-    public PushupCount(){
+    public ClickCount(){
 
     }
 
-    public PushupCount(int count) {
+    public ClickCount(int count) {
         this.count = count;
     }
 
